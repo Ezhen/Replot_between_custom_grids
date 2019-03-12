@@ -6,8 +6,8 @@ import numpy as np
 
 # DEFINE file names
 
-file_from = '/home/ulg/mast/eivanov/Validation/Ultimate_remapping/Odyssea_satellite.nc'		# File contains the grid we replot FROM
-file_on = '/home/ulg/mast/eivanov/Validation/Ultimate_remapping/Mercator_ocean.nc'			# File contains the grid ON which we replot
+file_from = './Odyssea_satellite.nc'		# File contains the grid we replot FROM
+file_on = './Mercator_ocean.nc'			# File contains the grid ON which we replot
 
 
 # DEFINE variables to replot - put them one by one inside a list
